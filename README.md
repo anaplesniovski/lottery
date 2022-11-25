@@ -1,3 +1,3 @@
 Loteria
 
-Aplicativo desenvolvido em swift para conversão de unidades como temperatura, peso, moeda e distância.
+Aplicativo desenvolvido em swift, o qual gera numeros da para jogar na mega-sena e quina.
